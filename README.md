@@ -1,0 +1,1 @@
+Personal Altium schematic symbols and PCB footprints library
